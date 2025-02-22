@@ -1,0 +1,15 @@
+Interview with John Doe, Marketing Manager, Company A
+Date: 2025-02-15
+
+Interviewer: Could you tell me about the biggest challenges your company faces in adopting predictive analytics?
+
+John Doe: One of the biggest challenges we face is the lack of skilled data scientists. We have the tools, but implementing them efficiently is a constant hurdle...
+
+---
+
+Interview with Jane Smith, Data Analyst, Company B
+Date: 2025-02-16
+
+Interviewer: How have you seen predictive analytics impact customer engagement?
+
+Jane Smith: Predictive analytics has been a game-changer for us. By predicting customer behavior, we've been able to personalize our offers and increase engagement by 20%...
