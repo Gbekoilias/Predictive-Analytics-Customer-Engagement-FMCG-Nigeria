@@ -1,0 +1,590 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://abjournals.org/bjmms/papers/volume-7/issue-3/the-impact-of-customer-retention-on-organizational-profitability-in-the-fmcg-sector-in-nigeria/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2689-5072"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olugbenga</foaf:surname>
+                        <foaf:givenName>Olumuyiwa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bamidele</foaf:surname>
+                        <foaf:givenName>Olumuyiwa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_839"/>
+        <dc:title>The Impact of Customer Retention on Organization Profitability in the FMCG Sector in Nigeria</dc:title>
+        <dcterms:abstract>In the competitive domain of fast-moving consumer goods (FMCG), retaining customers is essential for the overall organisational performance of an FMCG company. This research investigated the impact of customer retention on organisational profitability in the Fast-Moving Consumer Goods (FMCG) sector in Nigeria. The study employed a cross-sectional survey approach, with data collected from 248 employees in 10 different FMCG companies in Oyo State, South West, Nigeria. The findings revealed a strong positive correlation (r=0.783) significant at p &lt; 0.01 between customer retention and organisational profitability, highlighting customer retention as a key driver of sustained profitability. The study further explored specific components of customer retention, including personalised marketing, loyalty programs, quality products, and customer support, all of which showed strong positive associations with organisational profitability. Survey results indicated that customer satisfaction is a leading factor contributing to customer retention, emphasising the importance of understanding and meeting customer expectations. Based on these findings, recommendations are provided for FMCG companies to prioritise customer retention strategies, such as personalised marketing and quality customer support, to enhance organisational profitability and success in the Nigerian FMCG sector.</dcterms:abstract>
+        <dc:date>2024-7-16</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://abjournals.org/bjmms/papers/volume-7/issue-3/the-impact-of-customer-retention-on-organizational-profitability-in-the-fmcg-sector-in-nigeria/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:10:06</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+        <bib:pages>116-129</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2689-5072">
+        <prism:volume>7</prism:volume>
+        <dc:title>British Journal of Management and Marketing Studies</dc:title>
+        <dc:identifier>DOI 10.52589/BJMMS-WCBCIYFB</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>British Journal of Management and Marketing Studies</dcterms:alternative>
+        <dc:identifier>ISSN 2689-5072</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_839">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/839/O. O. and O. B. - 2024 - The Impact of Customer Retention on Organization P.pdf"/>
+        <dc:title>O. O. and O. B. - 2024 - The Impact of Customer Retention on Organization P.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://abjournals.org/bjmms/wp-content/uploads/sites/3/journal/published_paper/volume-7/issue-3/BJMMS_WCBCIYFB.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:09:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.sciencedirect.com/science/article/abs/pii/S0148296319307441">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hair</foaf:surname>
+                        <foaf:givenName>Joe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howard</foaf:surname>
+                        <foaf:givenName>Matt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nitzl</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_842"/>
+        <dc:title>Assessing measurement model quality in PLS-SEM using confirmatory composite analysis - ScienceDirect</dc:title>
+        <dcterms:abstract>Confirmatory factor analysis (CFA) has historically been used to develop and improve reflectively measured constructs based on the domain sampling model. Compared to CFA, confirmatory composite analysis (CCA) is a recently proposed alternative approach applied to confirm measurement models when using partial least squares structural equation modeling (PLS-SEM). CCA is a series of steps executed with PLS-SEM to confirm both reflective and formative measurement models of established measures that are being updated or adapted to a different context. CCA is also useful for developing new measures. Finally, CCA offers several advantages over other approaches for confirming measurement models consisting of linear composites.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0148296319307441</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:11:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_842">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/842/S0148296319307441.html"/>
+        <dc:title>Assessing measurement model quality in PLS-SEM using confirmatory composite analysis - ScienceDirect</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0148296319307441</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:12:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1063/5.0212004">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0094-243X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>George</foaf:surname>
+                        <foaf:givenName>Abin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajan</foaf:surname>
+                        <foaf:givenName>Nisha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rao</foaf:surname>
+                        <foaf:givenName>M. S. Vijaya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_848"/>
+        <dc:title>A study on effective customer relationship management system</dc:title>
+        <dcterms:abstract>Deploying an efficient Customer Relationship Management (CRM) system has the ability to achieve success and development for organisations in today’s digitally distant business landscape. In order to improve the digital customer experience, this research examined HDFC Securities Ltd’s CRM system. Using a standardised questionnaire, primary data was collected using the descriptive survey research approach. Fifty consumers and member of HDFC Securities Ltd.’s Customer Service Representative (CSR) team served as the study’s sample. To determine the sample size, the Simple Random Sampling Technique was used. We used charts and the Frequency Distribution Analytical technique to examine the data. According to the results, understanding the target audience and their requirements is the first step in developing a satisfying digital customer experience, followed by adopting customer-driven procedures made possible by digital technology. Research also shows that customers are more engaged and have a better digital experience when they have access to tools that let them utilise the service independently. After carefully evaluating several CRM system alternatives, it is suggested that HDFC Securities Limited employ a Social CRM system to improve their digital customer experience. This system enables consumers to determine the direction of a firm.</dcterms:abstract>
+        <dc:date>2024-07-08</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1063/5.0212004</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:18:38</dcterms:dateSubmitted>
+        <bib:pages>060006</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0094-243X">
+        <prism:volume>2965</prism:volume>
+        <dc:title>AIP Conference Proceedings</dc:title>
+        <dc:identifier>DOI 10.1063/5.0212004</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>AIP Conference Proceedings</dcterms:alternative>
+        <dc:identifier>ISSN 0094-243X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_848">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/848/A-study-on-effective-customer-relationship.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/aip/acp/article-abstract/2965/1/060006/3302295/A-study-on-effective-customer-relationship</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:18:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_849">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Creswell</foaf:surname>
+                        <foaf:givenName>JW</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Creswell</foaf:surname>
+                        <foaf:givenName>JD</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>RESEARCH DESIGN: Qualitative, Quantitative. and Mixed Methods Approaches</dc:title>
+        <dc:date>2005</dc:date>
+    </bib:Book>
+    <bib:Document rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/IJCS.12687">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanrikulu</foaf:surname>
+                        <foaf:givenName>Ceyda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_851"/>
+        <dc:title>Theory of consumption values in consumer behaviour research: A review and future research agenda - Tanrikulu - 2021 - International Journal of Consumer Studies - Wiley Online Library</dc:title>
+        <dc:date>31st March 2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/IJCS.12687</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:25:47</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_851">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/851/IJCS.html"/>
+        <dc:title>Theory of consumption values in consumer behaviour research: A review and future research agenda - Tanrikulu - 2021 - International Journal of Consumer Studies - Wiley Online Library</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/IJCS.12687</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 17:26:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-119-56056-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>John Wiley &amp; Sons</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenName>Keri E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saunders</foaf:surname>
+                        <foaf:givenName>Carol S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galletta</foaf:surname>
+                        <foaf:givenName>Dennis F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_853"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computers / Computer Science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computers / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computers / Information Technology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Managing and Using Information Systems: A Strategic Approach</dc:title>
+        <dcterms:abstract>Managing &amp; Using Information Systems: A Strategic Approach provides a solid knowledgebase of basic concepts to help readers become informed, competent participants in Information Systems (IS) decisions. Written for MBA students and general business managers alike, the text explains the fundamental principles and practices required to use and manage information, and illustrates how information systems can create, or obstruct, opportunities within various organizations. This revised and updated seventh edition discusses the business and design processes relevant to IS, and presents a basic framework to connect business strategy, IS strategy, and organizational strategy. Readers are guided through each essential aspect of information Systems, including information architecture and infrastructure, IT security, the business of Information Technology, IS sourcing, project management, business analytics, and relevant IS governance and ethical issues. Detailed chapters contain mini cases, full-length case studies, discussion topics, review questions, supplemental reading links, and a set of managerial concerns related to the topic.</dcterms:abstract>
+        <dc:date>2019-11-13</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Managing and Using Information Systems</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: nwO2DwAAQBAJ</dc:description>
+        <dc:identifier>ISBN 978-1-119-56056-2</dc:identifier>
+        <z:numPages>368</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_853">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com.ng/books?id=nwO2DwAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:17:22</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_854">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenName>Sobia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenName>Asif</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_855"/>
+        <dc:title>PRAGMATISM RESEARCH PARADIGM: A PHILOSOPHICAL FRAMEWORK OF ADVOCATING METHODOLOGICAL PLURALISM IN SOCIAL SCIENCE RESEARCH</dc:title>
+        <dcterms:abstract>A philosophical stance in social science research informs the overall research methodology and provides the rationale to understand the philosophical underpinning of a particular research study. Due to the pivotal role of the philosophical underpinning which informs the overall research strategy, there has been growing debate among social science researchers concerning what paradigms/worldviews researchers should bring to the social science inquiry. Primarily, this paper throws light on the long lasting issue regarding the use of either positivism (quantitative) or constructivism (qualitative) research paradigm in the social science research and offers rationale pertinent to use of pragmatism (quantitative and qualitative) research paradigm in social science research. This paper argued that pragmatism, as a philosophical underpinning, facilitates mixed methods researchers to inquire into some aspects of social research with quantitative approach and some others with qualitative approach, which can contribute to achieving a consensus on conceptualizing good quality social research. This paper concludes that pragmatism philosophical approach due to its wider orientation through advocating methodological pluralism can produce socially useful knowledge which enables researchers to appreciate the complexity and unpredictability of social life. ____________________</dcterms:abstract>
+        <dc:date>2018-06-15</dc:date>
+        <z:shortTitle>PRAGMATISM RESEARCH PARADIGM</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_855">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Sobia-Shah/publication/382524344_PRAGMATISM_RESEARCH_PARADIGM_A_PHILOSOPHICAL_FRAMEWORK_OF_ADVOCATING_METHODOLOGICAL_PLURALISM_IN_SOCIAL_SCIENCE_RESEARCH/links/66a15acf8be3067b4b157aeb/PRAGMATISM-RESEARCH-PARADIGM-A-PHILOSOPHICAL-FRAMEWORK-OF-ADVOCATING-METHODOLOGICAL-PLURALISM-IN-SOCIAL-SCIENCE-RESEARCH.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:20:00</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_856">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><prism:volume>9</prism:volume></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Humberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siqueira</foaf:surname>
+                        <foaf:givenName>Alexandre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Araujo</foaf:surname>
+                        <foaf:givenName>Marcus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dornelas</foaf:surname>
+                        <foaf:givenName>Jairo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_857"/>
+        <dc:title>Let's be Pragmatic: Research in Information Systems with Relevance and Rigor</dc:title>
+        <dcterms:abstract>Pragmatism can be defined as a doctrine that considers things from a practical point of view. Pragmatism preaches that action and practical relevance should be the key points of scientific research. The pragmatic paradigm has been presented as a paradigmatic alternative of positivism and interpretivism, enabling the solution of inherent problems of dominant paradigms, the positivism and interpretivism. The present article presents, from a bibliographical survey, the pragmatic paradigm, making a comparison with other paradigms, as well as the use of quantitative, qualitative and mixed methods, from a perspective of practical relevance with methodological rigor.</dcterms:abstract>
+        <dc:date>2018-08-20</dc:date>
+        <z:shortTitle>Let's be Pragmatic</z:shortTitle>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>1314</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_857">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Humberto-Silva-4/publication/327163633_Let's_be_Pragmatic_Research_in_Information_Systems_with_Relevance_and_Rigor/links/5b7daf68299bf1d5a71ce77d/Lets-be-Pragmatic-Research-in-Information-Systems-with-Relevance-and-Rigor.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:21:23</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_860">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Creswell</foaf:surname>
+                        <foaf:givenName>JW</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piano Clark</foaf:surname>
+                        <foaf:givenName>VL</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Revisiting mixed methods research designs twenty years later</dc:title>
+        <dc:date>2023</dc:date>
+    </bib:Book>
+    <bib:Document rdf:about="https://link.springer.com/chapter/10.1007/978-3-030-70538-1_8">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oyedijo</foaf:surname>
+                        <foaf:givenName>Ade</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adams</foaf:surname>
+                        <foaf:givenName>Kweku</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koukpaki</foaf:surname>
+                        <foaf:givenName>Serge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_862"/>
+        <dc:title>Supply Chain Management Systems in Africa: Insights from Nigeria | SpringerLink</dc:title>
+        <dcterms:abstract>This chapter investigates the barriers and driving forces of supply chain collaboration in Nigeria as prior research has not adequately explored this issue in developing countries. Using an in-depth qualitative interviews conducted with purchasing and supply chain managers in the food and beverage manufacturing industry in Nigeria, our results reveal the fragmented nature of supply chain management systems. Our findings also show how supply chain collaborations struggle to flourish in a highly unpredictable market. Thus, this chapter offers insights into the different factors that act as barriers to effective collaboration between supply chain partners. We also show how IT infrastructure and digital technologies could be used as a springboard to promote collaboration in the African context. The barriers and drivers are segmented into three distinct levels such as external, internal and supply chain level. The theoretical and practical implications of this research are highlighted.</dcterms:abstract>
+        <dc:date>29th June 2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/chapter/10.1007/978-3-030-70538-1_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:30:20</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_862">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/862/978-3-030-70538-1_8.html"/>
+        <dc:title>Supply Chain Management Systems in Africa: Insights from Nigeria | SpringerLink</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/chapter/10.1007/978-3-030-70538-1_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:30:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://books.google.com.ng/books?hl=en&amp;lr=&amp;id=N2zQCgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=Bryman,+2016&amp;ots=dqMrESM7se&amp;sig=lnrJt-o6oUjAH0ZZUoLazHJBBLA&amp;redir_esc=y#v=onepage&amp;q=Bryman%2C%202016&amp;f=false">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bryman</foaf:surname>
+                        <foaf:givenName>Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_864"/>
+        <dc:title>Social Research Methods - Alan Bryman - Google Books</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com.ng/books?hl=en&amp;lr=&amp;id=N2zQCgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=Bryman,+2016&amp;ots=dqMrESM7se&amp;sig=lnrJt-o6oUjAH0ZZUoLazHJBBLA&amp;redir_esc=y#v=onepage&amp;q=Bryman%2C%202016&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:32:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_864">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/864/books.html"/>
+        <dc:title>Social Research Methods - Alan Bryman - Google Books</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com.ng/books?hl=en&amp;lr=&amp;id=N2zQCgAAQBAJ&amp;oi=fnd&amp;pg=PP1&amp;dq=Bryman,+2016&amp;ots=dqMrESM7se&amp;sig=lnrJt-o6oUjAH0ZZUoLazHJBBLA&amp;redir_esc=y#v=onepage&amp;q=Bryman%2C%202016&amp;f=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:32:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_865">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>26</prism:volume>
+                <dc:title>IOSR Journal of Business and Management</dc:title>
+                <dc:identifier>DOI 10.9790/487X-2606057177</dc:identifier>
+                <dcterms:alternative>IOSR Journal of Business and Management</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zlatanova-Pazheva</foaf:surname>
+                        <foaf:givenName>Elena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_866"/>
+        <dc:title>Use Of AI-Based Chatbot In Online Marketing Research Of Consumer Behavior Through A Questionnaire</dc:title>
+        <dcterms:abstract>Modern technologies provide various opportunities for conducting an online marketing research. The object of consideration in the article are the online questionnaires, which find the most widespread application in practice. The most commonly used web-based tools for conducting an online marketing research using a questionnaire are described. More detailed attention is paid to the chatbot as a modern tool with the potential to be applied for marketing purposes and more specifically in marketing research. The results of an online survey of AI-Based Chatbot applications that can be used for marketing research are presented and an analysis of the opportunities they offer is made.</dcterms:abstract>
+        <dc:date>2024-06-01</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>71-77</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_866">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Elena-Zlatanova-Pazheva/publication/381479006_Use_Of_AI-Based_Chatbot_In_Online_Marketing_Research_Of_Consumer_Behavior_Through_A_Questionnaire/links/6670407c85a4ee7261caf0dd/Use-Of-AI-Based-Chatbot-In-Online-Marketing-Research-Of-Consumer-Behavior-Through-A-Questionnaire.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:35:27</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Document rdf:about="https://aisel.aisnet.org/iceb2024/18/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hamilton</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maxwell</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tee</foaf:surname>
+                        <foaf:givenName>Singwhat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_868"/>
+        <dc:title>&quot;Useful Excel data validation of qualtrics respondent data prior to ana&quot; by John R. Hamilton, Stephen Maxwell et al.</dc:title>
+        <dc:date>December 18 2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aisel.aisnet.org/iceb2024/18/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:36:49</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_868">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/868/18.html"/>
+        <dc:title>&quot;Useful Excel data validation of qualtrics respondent data prior to ana&quot; by John R. Hamilton, Stephen Maxwell et al.</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aisel.aisnet.org/iceb2024/18/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-22 18:36:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
